@@ -4,9 +4,9 @@ Simple CPU implementation from scratch of Block Matching using simple Sum of Squ
 You can either compile the code to executable with gcc or visual studio with Opencv installed. This have been tested in Windows 10.    
 
 left image:  
-![image](im1.png)  
+![image](left.png)  
 right image:  
-![image](im2.png)  
+![image](right.png)  
 disparity image with rank transform:  
 ![image](output.png)  
 
