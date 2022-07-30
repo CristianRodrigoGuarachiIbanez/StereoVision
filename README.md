@@ -23,6 +23,6 @@ Clearly, choosing rank transform or census transform as matching cost make dispa
 
 **Examples**
 
-    ./stereo_matching -left=im1.png -right=im2.png -max-disparity=50 -window_size=6 -tranwin_size=7 -output=depth_new.png -parallel=yes -cost=rank -windows=yes
+    ./stereo_matching -left=left.png -right=right.png -max-disparity=50 -window_size=6 -tranwin_size=7 -output=depth_new.png -parallel=yes -cost=rank -windows=yes
 
 
